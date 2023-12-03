@@ -1,1 +1,1 @@
-# java-project
+# SMSSENDER-APPLICATION
